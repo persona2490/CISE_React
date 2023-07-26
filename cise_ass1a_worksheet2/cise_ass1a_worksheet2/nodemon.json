@@ -1,0 +1,6 @@
+{
+    "watch": ["scr"],
+    "ext": "ts",
+    "ignore":["src/**/*.spec.ts"],
+    "exec": "nest start"
+}
