@@ -1,7 +1,7 @@
 import { IoMdArrowDropdown } from "react-icons/io";
-import NavBar from "./nav/NavBar";
-import NavDropdown from "./nav/NavDropdown";
-import NavItem from "./nav/NavItem";
+import NavBar from "/Users/wangsiyi/Documents/GitHub/CISE_React/cise_ass1a_worksheet4/frontend/src/components/nav/Navbar";
+import NavDropdown from "/Users/wangsiyi/Documents/GitHub/CISE_React/cise_ass1a_worksheet4/frontend/src/components/nav/NavDropdown";
+import NavItem from "/Users/wangsiyi/Documents/GitHub/CISE_React/cise_ass1a_worksheet4/frontend/src/components/nav/NavItem";
 
 const PopulatedNavBar = () => {
   return (
