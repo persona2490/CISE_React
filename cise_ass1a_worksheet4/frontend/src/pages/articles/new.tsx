@@ -1,5 +1,5 @@
 import { FormEvent, useState } from "react";
-import formStyles from "../../../styles/Form.module.scss";
+import formStyles from "/Users/wangsiyi/Documents/GitHub/CISE_React/cise_ass1a_worksheet4/frontend/src/styles/Form.module.scss";
 
 const NewDiscussion = () => {
   const [title, setTitle] = useState("");
